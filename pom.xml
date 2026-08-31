@@ -4,7 +4,7 @@
     <groupId>com.visualpathit</groupId>
     <artifactId>v-profile</artifactId>
     <packaging>war</packaging>
-    <version>latest</version>
+    <version>1.0.0</version>
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
